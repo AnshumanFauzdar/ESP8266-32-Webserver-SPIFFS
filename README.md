@@ -14,8 +14,8 @@ SPIFFS help to organise code effectively and hence placing/editing files in a ro
 - Knowledge of HTML/CSS/JSS
 
 # Making program of your choice:
-You can implement whatever you want, and start from scratch like this:
-    ```C++
+You can implement whatever you want, and start from scratch like this:   
+    
       #include <ESP8266mDNS.h>
       #include <ESP8266WebServer.h>
       #include <FS.h>
